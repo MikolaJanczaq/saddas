@@ -33,6 +33,8 @@ Aby uruchomić projekt Noodle na swoim komputerze, postępuj zgodnie z poniższy
 1. W XAMPP Control Panel, kliknij "Admin" przy MySQL, aby otworzyć phpMyAdmin.
 2. W phpMyAdmin utwórz nową bazę danych o nazwie `baza`.
 3. Zaimportuj wybraną bazę danych z pliku projektowego (plik .sql).
+4.     - Jeśli chcesz użyć pustej bazy danych, wybierz plik `czysta_baza.sql`. <!-- Uwaga: Należy pamiętać o uzupełnieniu bazy rekordami w odpowiednich tablicach przed rozpoczęciem pracy aplikacji. -->
+
 
 ### Krok 4: Skopiuj pliki projektu
 1. Skopiuj folder z aplikacją o nazwie `strona` z paczki projektu.
